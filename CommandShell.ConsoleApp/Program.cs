@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CommandShell.ConsoleApp
+﻿namespace CommandShell.ConsoleApp
 {
-    class Program
+    public static class Program
     {
         static void Main(string[] args)
         {
+
+            RobotsShell shell = new RobotsShell();
+            shell.Run();
+
         }
     }
 }

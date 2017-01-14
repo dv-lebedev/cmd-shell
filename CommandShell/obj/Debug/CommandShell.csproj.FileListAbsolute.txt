@@ -1,0 +1,10 @@
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell\bin\Debug\CommandShell.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell\bin\Debug\CommandShell.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell\obj\Debug\CommandShell.csprojResolveAssemblyReference.cache
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell\obj\Debug\CommandShell.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell\obj\Debug\CommandShell.pdb
+C:\GitHub\CommandShell\CommandShell\obj\Debug\CommandShell.csprojResolveAssemblyReference.cache
+C:\GitHub\CommandShell\CommandShell\obj\Debug\CommandShell.dll
+C:\GitHub\CommandShell\CommandShell\obj\Debug\CommandShell.pdb
+C:\GitHub\CommandShell\CommandShell\bin\Debug\CommandShell.dll
+C:\GitHub\CommandShell\CommandShell\bin\Debug\CommandShell.pdb

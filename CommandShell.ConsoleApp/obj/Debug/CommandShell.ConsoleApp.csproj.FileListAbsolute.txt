@@ -1,0 +1,19 @@
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe.config
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.pdb
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe.config
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.pdb
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.dll
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.pdb
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.exe
+C:\GitHub\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.pdb
+C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe.config
+C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.exe
+C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.pdb

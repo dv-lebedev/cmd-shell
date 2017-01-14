@@ -17,3 +17,6 @@ C:\GitHub\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp
 C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe.config
 C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.exe
 C:\Users\Denis_Lebedev\Documents\MyProjects\CommandShell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.pdb
+C:\GitHub\cmd-shell\CommandShell.ConsoleApp\bin\Debug\CommandShell.ConsoleApp.exe.config
+C:\GitHub\cmd-shell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.exe
+C:\GitHub\cmd-shell\CommandShell.ConsoleApp\obj\Debug\CommandShell.ConsoleApp.pdb
